@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/190520218521630719/7e6613428c3c4bebbe9c83edf1f1a82b/artifacts
+end_time: 1712289803769
+entry_point_name: ''
+experiment_id: '190520218521630719'
+lifecycle_stage: active
+run_id: 7e6613428c3c4bebbe9c83edf1f1a82b
+run_name: receptive-wren-984
+run_uuid: 7e6613428c3c4bebbe9c83edf1f1a82b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712289800256
+status: 3
+tags: []
+user_id: ayush
